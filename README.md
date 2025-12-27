@@ -1,6 +1,6 @@
 ## How it works:
 
-# Get_users_passwords_from_csv
+Get users passwords from csv
 
 -----
 
