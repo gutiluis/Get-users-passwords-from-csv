@@ -1,19 +1,17 @@
-## How it works:
+[WARN] CURRENTLY UNDER DEVELOPMENT...
+
+# Passwords Fetcher in Python
 
 Get users passwords from csv
 
------
+---
 
-## Features:
-
------
-
-## Technologies Used:
+## Tech-Stack:
 
 - Python
 
------
+---
 
-##
+### License
 
-Clone repo:
+[MIT LICENSE](LICENSE)
