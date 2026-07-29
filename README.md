@@ -1,1 +1,19 @@
-# Get_users_passwords_from_csv
+## How it works:
+
+Get users passwords from csv
+
+-----
+
+## Features:
+
+-----
+
+## Technologies Used:
+
+- Python
+
+-----
+
+##
+
+Clone repo:
