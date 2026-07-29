@@ -6,6 +6,14 @@ Get users passwords from csv
 
 ---
 
+## How it works
+
+---
+
+## Features
+
+---
+
 ## Tech-Stack:
 
 - Python
