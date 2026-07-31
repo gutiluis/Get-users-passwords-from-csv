@@ -11,6 +11,12 @@ Get users passwords from csv
 
 ## How it works
 
+```
+git clone https://github.com/gutiluis/Get-users-passwords-from-csv.git
+cd Get-users-passwords-from-csv
+python3 main.py
+```
+
 ---
 
 ## Features
